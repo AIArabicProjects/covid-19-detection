@@ -8,4 +8,4 @@ This code is originally from https://towardsdatascience.com/detecting-covid-19-u
 البرنامج مكتوب بلغة البايثون باستخدام مكتبة كيراس
  
 للمزيد من المعلومات يرجى قراءة المقال كاملاً على منصة الذكاء الصناعي باللغة العربية
-https://aiinarabic.com/covid-19-detection
+https://aiinarabic.com/detecting-covid-19-using-deep-learning/
